@@ -1,0 +1,4 @@
+
+Config = {
+    aceperms = true
+}
